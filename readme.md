@@ -26,7 +26,7 @@ Confused? Checkout the cheat sheet: [Git Cheat Sheet](http://www.cheat-sheets.or
     1. Save your changes locally (```git stash```)
     2. Pull the new changes from remote (```git pull```)
     3. Merge your changes in: (```git stash pop```)
-    4. Commit your changes: (```git commit -am "merged remote changes```)
+    4. Commit your changes: (```git commit -am "merged remote changes"```)
 
 
 
