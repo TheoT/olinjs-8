@@ -4,14 +4,13 @@ Because waiting to learn git until a merge goes terribly will be the worst exper
 
 ## Git Merging
 
-1. Fork this repo and clone it down with `git clone`
+1. Clone this repo. Don't fork it. `git clone`
 2. Edit `index.html` to display your name instead of one of the options on the nav bar. Ex: Change "Home" to "Jia" or "TV & Video" to "Jia".
 3. Now type in `git merge origin/health`. This repo has 2 different branches, the master branch and the "health" branch. Don't worry about branches for now, we're just using this in order to practice merging.
 4. Alright, so you can't merge because you've changed the file. You want to stash your change with `git stash`
 5. Now try and re-merge. (In your project teams this would be a git pull, but no one else has touched your repo for this excercise so we'll fake some changes by looking at code from another branch)
 6. Now pop your stash with `git stash pop`
 7. Fix the merge conflicts. Make it so that your name is still displayed as a button. You shouldn't have to type anything for this part... You just need to decide which parts of the merge you want to keep and which part you want to delete.
-8. git add/commit & push back up to your repo
 
 #Week 8 - Stretch before you sprint
 So you are starting to code on your team What do you do?
