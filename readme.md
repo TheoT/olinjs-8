@@ -65,7 +65,7 @@ Confused? Checkout the cheat sheet: [Git Cheat Sheet](http://www.cheat-sheets.or
     
     To resolve this error, manually remove the shenanigans and replace it with whichever line, or groups of lines you want. I.e.
     
-        This third cool change was better than my change, or the remote change, it ROCKED.
+        This third cool change was better than both my change, and the remote change, it ROCKED.
     
     Add the file and commit, and it will be marked as resolved:
         git add fileName
