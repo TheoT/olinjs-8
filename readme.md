@@ -1,4 +1,16 @@
-#Stretch before you sprint
+# Week 8+ Git Practice
+
+Because waiting to learn git until a merge goes terribly will be the worst experience ever.
+
+## Git Merging
+
+1. Fork this repo and clone it down with `git clone`
+2. Edit `index.html` to display your name as a CNN headline.
+3. Now type in `git merge health`. This repo has 2 different branches, the master branch and the "health" branch. Don't worry about branches for now, we're just using this in order to practice merging.
+4. Fix the merge conflicts. Make it so that your name is still displayed as a headline.
+5. git add/commit & push back up to your repo
+
+#Week 8 - Stretch before you sprint
 So you are starting to code on your team What do you do?
 
 First, add your friends to your repository so they can push (settings/collaboration)
