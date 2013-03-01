@@ -8,7 +8,7 @@ Because waiting to learn git until a merge goes terribly will be the worst exper
 2. Edit `index.html` to display your name instead of one of the options on the nav bar. Ex: Change "Home" to "Jia" or "TV & Video" to "Jia".
 3. Now type in `git merge origin/health`. This repo has 2 different branches, the master branch and the "health" branch. Don't worry about branches for now, we're just using this in order to practice merging.
 4. Uh ohhh merge issuessss WHAT DO YOU DO
-5. Fix the merge conflicts. Make it so that your name is still displayed as a headline.
+5. Fix the merge conflicts. Make it so that your name is still displayed as a button. You shouldn't have to type anything for this part... You just need to decide which parts of the merge you want to keep and which part you want to delete.
 6. git add/commit & push back up to your repo
 
 #Week 8 - Stretch before you sprint
